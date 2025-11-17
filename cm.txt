@@ -1,0 +1,17 @@
+104.16.16.0/20 -> SJC/San Jose (United States)
+104.16.32.0/19 -> SEA/Seattle (United States)
+104.16.64.0/19 -> SJC/San Jose (United States)
+104.16.96.0/20 -> LHR/London (United Kingdom)
+104.16.112.0/20 -> SJC/San Jose (United States)
+104.16.128.0/20 -> LHR/London (United Kingdom)
+104.16.144.0/20 -> HKG/Hong Kong SAR
+104.16.160.0/19 -> SJC/San Jose (United States)
+104.16.192.0/19 -> SJC/San Jose (United States)
+104.16.224.0/20 -> SJC/San Jose (United States)
+104.16.240.0/20 -> HKG/Hong Kong SAR
+104.17.0.0/20 -> SJC/San Jose (United States)
+104.17.16.0/20 -> HKG/Hong Kong SAR
+104.17.32.0/20 -> SJC/San Jose (United States)
+104.17.48.0/20 -> HKG/Hong Kong SAR
+104.17.64.0/19 -> SJC/San Jose (United States)
+104.17.96.0/19 -> HKG/Hong Kong SAR
