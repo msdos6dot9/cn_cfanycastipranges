@@ -106,7 +106,7 @@
 141.101.120.0/22-> LAX/Los Angeles (United States)
 173.245.49.0/24 -> LAX/Los Angeles (United States)
 173.245.58.0/23 -> LAX/Los Angeles (United States)
-118.114.96.0/22 -> LAX/Los Angeles (United States)
+188.114.96.0/22 -> LAX/Los Angeles (United States)
 190.93.246.0/23 -> SJC/San Jose (United States)
 198.41.192.0/20 -> LAX/Los Angeles (United States)
 198.41.208.0/23 -> HKG/Hong Kong SAR
