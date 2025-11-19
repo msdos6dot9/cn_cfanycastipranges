@@ -4,4 +4,4 @@
 
 下方是节点状态变化记录.
 ### Nov 19 2025:
-HKG/Hong Kong SAR: Operational -> **Partially Re-routed**
+_HKG/Hong Kong SAR_: Operational -> **Partially Re-routed**
