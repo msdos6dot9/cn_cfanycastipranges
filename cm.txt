@@ -4,39 +4,41 @@
 104.16.96.0/20  -> LHR/London (United Kingdom)
 104.16.112.0/20 -> SJC/San Jose (United States)
 104.16.128.0/20 -> LHR/London (United Kingdom)
-104.16.144.0/20 -> HKG/Hong Kong SAR
+104.16.144.0/20 -> SJC/San Jose (United States)
 104.16.160.0/19 -> SJC/San Jose (United States)
 104.16.192.0/19 -> SJC/San Jose (United States)
 104.16.224.0/20 -> SJC/San Jose (United States)
-104.16.240.0/20 -> HKG/Hong Kong SAR
+104.16.240.0/20 -> [multiple anycasted]
 104.17.0.0/20   -> SJC/San Jose (United States)
-104.17.16.0/20  -> HKG/Hong Kong SAR
+104.17.16.0/20  -> SEA/Seattle (United States)
 104.17.32.0/20  -> SJC/San Jose (United States)
-104.17.48.0/20  -> HKG/Hong Kong SAR
+104.17.48.0/20  -> [multiple anycasted]
 104.17.64.0/19  -> SJC/San Jose (United States)
-104.17.96.0/19  -> HKG/Hong Kong SAR
-104.17.144.0/20 -> HKG/Hong Kong SAR
-104.17.160.0/19 -> HKG/Hong Kong SAR
-104.17.208.0/20 -> HKG/Hong Kong SAR
+104.17.96.0/20  -> [multiple anycasted]
+104.17.112.0/20 -> SJC/San Jose (United States)
+104.17.144.0/20 -> SJC/San Jose (United States)
+104.17.160.0/19 -> [multiple anycasted]
+104.17.208.0/20 -> [multiple anycasted]
 104.17.224.0/19 -> SEA/Seattle (United States)
 104.18.0.0/20   -> SEA/Seattle (United States)
 104.18.16.0/20  -> LHR/London (United Kingdom)
+104.18.40.0/21  -> LAX/Los Angeles (United States)
 104.18.48.0/21  -> LAX/Los Angeles (United States)
 104.18.56.0/22  -> LAX/Los Angeles (United States)
 104.18.60.0/23  -> LAX/Los Angeles (United States)
 104.18.62.0/24  -> LAX/Los Angeles (United States)
 104.18.63.0/24  -> SEA/Seattle (United States)
 104.18.64.0/20  -> SEA/Seattle (United States)
-104.18.80.0/20  -> HKG/Hong Kong SAR
+104.18.80.0/20  -> SJC/San Jose (United States)
 104.18.96.0/20  -> SJC/San Jose (United States)
 104.18.112.0/20 -> LHR/London (United Kingdom)
 104.18.128.0/20 -> SJC/San Jose (United States)
 104.18.192.0/19 -> SJC/San Jose (United States)
 104.18.240.0/20 -> SJC/San Jose (United States)
 104.19.0.0/19   -> LAX/Los Angeles (United States)
-104.19.32.0/19  -> HKG/Hong Kong SAR
+104.19.32.0/19  -> LAX/Los Angeles (United States)
 104.19.64.0/18  -> LAX/Los Angeles (United States)
-104.19.144.0/20 -> HKG/Hong Kong SAR
+104.19.144.0/20 -> [multiple anycasted]
 104.19.160.0/20 -> SEA/Seattle (United States)
 104.19.176.0/20 -> SJC/San Jose (United States)
 104.19.192.0/20 -> LAX/Los Angeles (United States)
@@ -47,7 +49,9 @@
 104.20.48.0/20  -> FRA/Frankfurt (Germany)
 104.21.0.0/20   -> LAX/Los Angeles (United States)
 104.21.16.0/20  -> SEA/Seattle (United States)
+104.21.32.0/20  -> SJC/San Jose (United States)
 104.21.48.0/20  -> LAX/Los Angeles (United States)
+104.21.64.0/19  -> SJC/San Jose (United States)
 104.21.96.0/19  -> LAX/Los Angeles (United States)
 104.21.192.0/19 -> LAX/Los Angeles (United States)
 104.21.224.0/20 -> SEA/Seattle (United States)
@@ -67,17 +71,17 @@
 162.159.128.0/19-> NRT/Tokyo (Japan)
 162.159.160.0/19-> FRA/Frankfurt (Germany)
 162.159.192.0/20-> LAX/Los Angeles (United States)
-162.159.208.0/20-> SEA/Seattle (United States)
+162.159.208.0/20-> SJC/San Jose (United States)
 162.159.240.0/20-> LAX/Los Angeles (United States)
 172.64.32.0/20  -> LAX/Los Angeles (United States)
 172.64.48.0/22  -> LAX/Los Angeles (United States)
 172.64.52.0/23  -> LAX/Los Angeles (United States)
 172.64.66.0/22  -> LAX/Los Angeles (United States)
 172.64.80.0/20  -> LAX/Los Angeles (United States)
-172.64.144.0/22 -> HKG/Hong Kong SAR
+172.64.144.0/22 -> [multiple anycasted]
 172.64.148.0/22 -> LAX/Los Angeles (United States)
-172.64.152.0/21 -> HKG/Hong Kong SAR
-172.64.228.0/23 -> HKG/Hong Kong SAR
+172.64.152.0/21 -> [multiple anycasted]
+172.64.228.0/23 -> [multiple anycasted]
 172.64.230.0/23 -> LAX/Los Angeles (United States)
 172.66.0.0/23   -> LAX/Los Angeles (United States)
 172.66.40.0/21  -> SEA/Seattle (United States)
@@ -96,9 +100,10 @@
 172.67.160.0/20 -> SEA/Seattle (United States)
 172.67.176.0/20 -> LAX/Los Angeles (United States)
 172.67.192.0/20 -> LHR/London (United Kingdom)
+172.67.208.0/20 -> SJC/San Jose (United States)
 172.67.224.0/19 -> LAX/Los Angeles (United States)
 23.227.38.0/23  -> SEA/Seattle (United States)
-66.235.200.0/24 -> SEA/Seattle (United States)
+66.235.200.0/24 -> LAX/Los Angeles (United States)
 103.21.244.0/22 -> LAX/Los Angeles (United States)
 103.31.4.0/24   -> DEN/Denver (United States)
 108.162.192.0/22-> LAX/Los Angeles (United States)
@@ -109,7 +114,7 @@
 188.114.96.0/22 -> LAX/Los Angeles (United States)
 190.93.246.0/23 -> SJC/San Jose (United States)
 198.41.192.0/20 -> LAX/Los Angeles (United States)
-198.41.208.0/23 -> HKG/Hong Kong SAR
+198.41.208.0/23 -> [multiple anycasted]
 198.41.211.0/24 -> LAX/Los Angeles (United States)
 198.41.214.0/22 -> LAX/Los Angeles (United States)
 198.41.222.0/23 -> LAX/Los Angeles (United States)

@@ -41,8 +41,13 @@
 162.159.128.0/19-> FRA/Frankfurt (Germany)
 162.159.160.0/19-> FRA/Frankfurt (Germany)
 162.159.192.0/20-> FRA/Frankfurt (Germany)
-162.159.208.0/20-> SEA/Seattle (United States)
 162.159.240.0/20-> LAX/Los Angeles (United States)
+172.64.32.0/20  -> SIN/Singapore
+172.64.48.0/22  -> SIN/Singapore
+172.64.52.0/23  -> NRT/Tokyo (Japan)
+172.64.66.0/23  -> SJC/San Jose(United States)
+172.64.68.0/23  -> FRA/Frankfurt (Germany)
+172.64.80.0/20  -> SJC/San Jose(United States)
 172.64.144.0/20 -> SIN/Singapore
 172.64.228.0/24 -> SIN/Singapore
 172.64.229.0/24 -> NRT/Tokyo (Japan)
